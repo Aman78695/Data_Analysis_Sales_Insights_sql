@@ -1,0 +1,11 @@
+product_id,name,category,price
+1,Shirt,Apparel,25.99
+2,Shoes,Footwear,59.99
+3,Phone,Electronics,499.99
+4,Book,Books,12.99
+5,Headphones,Electronics,79.99
+6,Pants,Apparel,39.99
+7,Watch,Accessories,149.99
+8,TV,Electronics,799.99
+9,Sunglasses,Accessories,29.99
+10,Backpack,Accessories,49.99
